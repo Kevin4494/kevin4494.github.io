@@ -4,13 +4,15 @@ body {
 
 #bodytext {
     color: white;
-    padding: 20px;
+    padding: 30px;
+    font-size: 120%;
 }
 
 #header {
     background-color: #183A37;
     color: white;
     padding: 10px;
+    font-size: 120%;
 }
 
 #footer {
@@ -44,6 +46,7 @@ th:hover {
     color: #8DAA91;
     padding:10px;
     width: 25%;
+    font-size: 120%;
 }
 
 h1 {
